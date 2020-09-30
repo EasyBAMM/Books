@@ -15,11 +15,6 @@
 
 ---
 
-### July 2018
-`WILL READ` [Essentialism The Disciplined Pursuit of Less](http://a.co/akwADM4) by Greg McKeown
-
----
-
 ### 2020. 06 ~ 08
 `READ` [IoT 사물인터넷을 위한 라즈베리파이4 정석](https://book.naver.com/bookdb/book_detail.nhn?bid=15811600) 저자 최주호, 김재범, 정동진
 
