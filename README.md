@@ -1,7 +1,7 @@
 # Reading List
 
-### 2020. 09 ~ 
-`READING` [리액트를 다루는 기술](https://book.naver.com/bookdb/book_detail.nhn?bid=15372757) 저자 김민준
+### 2020. 09 ~ 2021.01.15
+`READ` [리액트를 다루는 기술](https://book.naver.com/bookdb/book_detail.nhn?bid=15372757) 저자 김민준
 
 ---
 
